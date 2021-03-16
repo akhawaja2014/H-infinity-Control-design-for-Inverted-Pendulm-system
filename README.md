@@ -17,3 +17,9 @@ and produces damping force of -b(z_dot). The centre of mass of pendulum is at ha
 
 
 ![alt text](tableforparametervalues.PNG)
+
+The following equations represent the non linear dynamics of the system:
+
+![alt text](nonlineareqPNG)
+
+### Linearization
