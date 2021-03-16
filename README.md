@@ -14,3 +14,6 @@ The above figure shows a pendulum mounted on cart, z is the position measured re
 pendulum from vertical axis and theta_dot is the angular velocity. l denotes the length of the pendulum. Pendulum is approximated as being infinitely thin. As the
 figure denotes, gravity is acting in downward direction. F is the applied force which acts in the direction of z. The surface is approximated to be frictionless
 and produces damping force of -b(z_dot). The centre of mass of pendulum is at half the length of pendulum.
+
+
+![alt text](tableforparametervalues.PNG)
