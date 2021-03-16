@@ -8,3 +8,4 @@ The inverted pendulum is fundamental problem in control theory, due to its immen
 ## Mathematical Model of Cart Pendulum System
 The literature on mathematical modelling is widely spread and is commonly found in control fundamental books. We revisited mathematical modelling from number of sources and reproduced it from "Introduction to Feedback Control using Design Studies" by Randal W.Beard and Timothy W.McLain. 
 
+![alt text](freebodydiag.pdf)
